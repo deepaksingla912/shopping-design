@@ -1,0 +1,40 @@
+html{
+	scroll-behavior: smooth;
+}
+.nav-n{
+		background: linear-gradient(to top,transparent,gold);
+		border: 0px;
+		color: black;
+		font-weight: bold;
+    	font-family: MV Boli;
+    	font-size: 30px;
+	}
+	.logo{
+		color: black;
+		font-weight: bold;
+    	font-family: MV Boli;
+    	font-size: 30px;
+	}
+	.nav-n ul li a{
+		text-decoration: none;
+		color: black;
+	}
+	.form-group label{
+		font-family: MV Boli;
+	}
+	.modal-footer a{
+		text-decoration: none;
+		color: black;
+	}
+	.anim-img{
+		width: 100% !important;
+		height: 500px !important;
+	}
+	.footer{
+		height: 100px; 
+		background: linear-gradient(to bottom,transparent,gold);
+		border: 0px;
+	}
+	
+
+	
